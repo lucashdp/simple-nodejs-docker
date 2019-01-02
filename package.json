@@ -1,0 +1,22 @@
+{
+  "name": "simple-nodejs-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucashdp/simple-nodejs-docker.git"
+  },
+  "author": "Lucas Duarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucashdp/simple-nodejs-docker/issues"
+  },
+  "homepage": "https://github.com/lucashdp/simple-nodejs-docker#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
